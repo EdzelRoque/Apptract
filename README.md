@@ -28,21 +28,14 @@ Apptract is a full-stack job application tracker that combines the convenience o
 ## Tech Stack
 
 - **Backend**  
-  - Python 3.x  
-  - FastAPI (REST API)  
-  - PostgreSQL (Relational Database)  
-  - SQLAlchemy (ORM)  
-  - Alembic (Database Migrations)  
+  - Python 
+  - FastAPI
+  - PostgreSQL
+  - SQLAlchemy
 
 - **Frontend**  
-  - React (Create React App or Vite)  
-  - Tailwind CSS (or CSS Modules)  
-  - Chart.js or Recharts (for analytics)  
+  - React
 
 - **Future Extension**  
   - Chrome Extension (Manifest v3)
-
----
-
-## Folder Structure
 
